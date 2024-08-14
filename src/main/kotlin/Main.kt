@@ -15,6 +15,7 @@ fun main() {
     println(agoToText(30))
     println(agoToText(80))
     println(agoToText(10000))
+    println(agoToText(100000))
     println(agoToText(200000))
     println(agoToText(300000))
 }
